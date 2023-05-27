@@ -2,4 +2,4 @@
 
 Acepte pull requets de las siguientes personas:
 
-Ayxa Chaverra (https://github.com/achaverrar)
+[Ayxa Chaverra](https://github.com/achaverrar)
