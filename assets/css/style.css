@@ -69,3 +69,6 @@ footer {
     line-height: 1.5;
 }
 
+.decoration{
+    text-decoration: underline;
+}
